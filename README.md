@@ -5,11 +5,11 @@ TVPSE contains all the codes in my PhD dissertation. Programming language used w
 "main_function" is the code for trend and seasonality estimation given a subspace H.
 
 "Bootstrap_Experiment" serves as two purposes: 
-1) When set B=1, it is a subplace H selection among Fourier, sin, cos, and Legendre,
+(1) When set B=1, it is a subplace H selection among Fourier, sin, cos, and Legendre,
    with basis eleements from l1 to l2.
-2) When donig Bootstrap analysis, B is B=100 or 200 depends on users' need.
+(2) When donig Bootstrap analysis, B is B=100 or 200 depends on users' need.
 
------------------------------------- important ---------------------------------------
+------------------------------------ important ---------------------------------------<>
 The routine "DynamicProgrammingQ.c" under sub-directory "SRVFs"
 require recompile under your computer.
 
