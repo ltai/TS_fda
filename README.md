@@ -9,7 +9,7 @@ TVPSE contains all the codes in my PhD dissertation. Programming language used w
    with basis eleements from l1 to l2.
 (2) When donig Bootstrap analysis, B is B=100 or 200 depends on users' need.
 
------------------------------------- important ---------------------------------------<>
+------------------------------------ important ---------------------------------------<br>
 The routine "DynamicProgrammingQ.c" under sub-directory "SRVFs"
 require recompile under your computer.
 
