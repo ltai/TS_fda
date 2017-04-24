@@ -3,10 +3,11 @@ Trend and Variable-Phase Seasonality Estimation from Functional Data.
 TVPSE contains all the codes in my PhD dissertation. Programming language used were Matlab, R, and C++.
 
 "main_function" is the code for trend and seasonality estimation given a subspace H.
+Figure results are saved in a new directory "html" <br>
 
 "Bootstrap_Experiment" serves as two purposes: <br>
 (1) When set B=1, it is a subplace H selection among Fourier, sin, cos, and Legendre,
-   with basis eleements from l1 to l2. <br>
+   with basis eleements from l1 to l2.<br>
 (2) When donig Bootstrap analysis, B is B=100 or 200 depends on users' need.
 
 ------------------------------------ important ---------------------------------------<br>
