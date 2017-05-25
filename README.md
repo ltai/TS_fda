@@ -1,6 +1,7 @@
 # TS_fda
 TS_fda stands for Trend and Variable-Phase Seasonality Estimation from Functional Data.
-TS_fda contains all the codes in my PhD dissertation. Programming language used were Matlab, R, and C++.
+TS_fda contains all the codes in my PhD dissertation and the paper (http://arxiv.org/abs/1704.07358). 
+Programming language used were Matlab, R, and C++.
 
 "main_function" is the code for trend and seasonality estimation given a subspace H.
 Figure results are saved in a new directory "html" <br>
